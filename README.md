@@ -1,0 +1,3 @@
+# Machine Learning Projet
+Analyse De La Satisfaction Des Passagers Aériens : Développement d’un système d’analyse et de prédiction de la satisfaction des passagers d’une compagnie aérienne, incluant le nettoyage, la transformation et la visualisation des données, ainsi que la comparaison de plusieurs modèles de classification (KNN, Naive Bayes, SVM, Decision Tree) pour identifier les facteurs influençant la satisfaction client. 
+Les techs : Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
